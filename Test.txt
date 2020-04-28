@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is first line.
-=======
-2nd line changed in child1
->>>>>>> child1
